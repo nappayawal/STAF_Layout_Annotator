@@ -1,0 +1,18 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+
+build/
+dist/
+debug/
+
+*_with_Note.xlsm
+missing_tags.json
+
+~$*.xls
+~$*.xlsx
+~$*.xlsm
+logs/
+output_examples/
+sample files/
